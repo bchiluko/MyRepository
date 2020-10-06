@@ -1,3 +1,5 @@
 This is my first new project in GitHub
 
 Edited this for 1st update after creating the new file.
+
+this is for upcoming November Release....
